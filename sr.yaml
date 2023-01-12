@@ -28,3 +28,4 @@ flows:
 
       - run-embedded: label-web
         labels: [include, category]
+        port: 5005
